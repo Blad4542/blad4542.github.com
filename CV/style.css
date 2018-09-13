@@ -1,0 +1,68 @@
+body{
+  font-family: Helvetica, Arial,sans-serif;
+  margin: 0;
+}
+
+.h1{
+  display: inline-block;
+  width: 560px;
+  font-weight: 700;
+}
+
+.p2{
+  display: inline-block;
+  width: 400px;
+  font-weight: 200;
+}
+
+.header{
+  background-color: #05668D;
+  color: white;
+  text-align: center;
+  padding: 16px;
+}
+
+.div-style{
+  background-color: #C6C7BA;
+  text-align: center;
+  padding: 10px;
+}
+
+.information{
+  width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.education{
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.education2{
+  display: inline-block;
+  width: 69%;
+  
+}
+
+.img{
+  display: inline-block;
+  width: 30%;
+}
+
+.dt{
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  margin-top: 36px;
+}
+
+.dt1{
+  font-size: 20px;
+  margin-bottom: 12px;
+  margin-top: 36px;
+}
+
+.list{
+  margin-top: 70px;
+}
